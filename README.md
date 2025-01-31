@@ -4,23 +4,23 @@
 Key Steps:
 Data Cleaning:
 
-Handle missing values, duplicate entries, and inconsistencies in text data.
-Normalize text by removing stop words, special characters, and URLs.
-Exploratory Data Analysis (EDA):
+Handled missing values, duplicate entries, and inconsistencies in text data.
+Normalized text by removing stop words, special characters, and URLs.
 
-Analyze word frequency to identify stress-related terms.
-Explore post timestamps to study trends in stress-related posts.
+Exploratory Data Analysis (EDA):
+Analyzed word frequency to identify stress-related terms.
+Explored post timestamps to study trends in stress-related posts.
 Feature Engineering:
 
-Extract features such as text length, engagement metrics, and sentiment scores.
-Use pre-trained sentiment analysis models to label posts as stressed or non-stressed.
+Extracted features such as text length, engagement metrics, and sentiment scores.
+Used pre-trained sentiment analysis models to label posts as stressed or non-stressed.
 Model Building (Optional):
-
 Build machine learning models (e.g., Logistic Regression, SVM, or Neural Networks) for stress detection based on text features.
-Evaluate model performance using metrics such as accuracy, precision, and recall.
+Evaluated model performance using metrics such as accuracy, precision, and recall.
 Data Visualization:
 
-Create plots to visualize stress trends over time and the impact of engagement on user stress.
+Created plots to visualize stress trends over time and the impact of engagement on user stress.
+
 Key Technologies Used:
 Programming Language: Python
 Data Analysis Libraries: Pandas, NumPy
